@@ -27,3 +27,16 @@ All data provided here as `csv` files were obtained from the CGP Grey's original
 8. `population-in-numbers-percentages-and-percentiles.csv`: This is the auxiliary table that contains population data and priority numbers. The fist two columns are percentages.
 
 9. `house-and-electoral-college-rankings.csv`: This is the main table used for all calculations in the second spreadsheet video. The versus columns are recorded as percentages.
+
+## Road map
+
+- [ ] Plots of current population estimate overlaid on top of the map
+- [ ] Visualization of the population growth over the last ten years based on census estimate
+  - [ ] Hovering on a state should provide additional information
+  - [ ] GIF/Video must pause
+  - [ ] Ability to select a single state or region to view population change
+- [ ] Visualization of representation if seats were allocated simply based on population
+- [ ] Visualization of representation based on the current system of allocation
+- [ ] Visualization of priority values calculation?
+- [ ] Visualization of win/losses over the course of simulations?
+- [ ] Visualization of individual states' vs battles?
