@@ -40,3 +40,4 @@ All data provided here as `csv` files were obtained from the CGP Grey's original
 - [ ] Visualization of priority values calculation?
 - [ ] Visualization of win/losses over the course of simulations?
 - [ ] Visualization of individual states' vs battles?
+- [ ] District wise separation of population and separation for each state
